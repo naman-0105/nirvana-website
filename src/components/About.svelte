@@ -167,6 +167,9 @@
       font-size: 2.5rem;
     }
 
+    .head2 {
+      font-size: 1.8rem;
+   }
     .section {
       padding: 25px;
     }
