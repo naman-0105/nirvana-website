@@ -60,7 +60,7 @@
 
   .head2 {
     font-family: 'Krona One', sans-serif;
-    font-size: 2.5rem;
+    font-size: 2rem;
     font-weight: 600;
     color: #2c3e50;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
