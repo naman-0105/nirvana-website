@@ -270,5 +270,7 @@
     </div>
   </div>
 
-  <button class="discord-button">Join Us On The Discord Server</button>
+  <a href="https://discord.com/channels/1298283552819122197/1298303293092794378" target="_blank">
+    <button class="discord-button">Join Us On The Discord Server</button>
+  </a>
 </div>
