@@ -270,5 +270,5 @@
     </div>
   </div>
 
-  <button class="discord-button" onclick="window.open('https://discord.com/channels/1298283552819122197/1298303293092794378', '_blank'>Join Us On The Discord Server</button>
+  <button class="discord-button">Join Us On The Discord Server</button>
 </div>
